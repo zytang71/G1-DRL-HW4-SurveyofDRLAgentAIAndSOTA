@@ -2,18 +2,18 @@
 
 ## 0. Setup and Scope
 - [ ] Confirm final team member names / student IDs (if required by class format).
-- [ ] Decide report format template (IEEE/ACM) and set citation style.
-- [ ] Create project folders:
-  - [ ] `report/`
-  - [ ] `slides/`
-  - [ ] `figures/`
-  - [ ] `references/`
-  - [ ] `notes/`
-- [ ] Define timeline:
-  - [ ] Literature collection deadline
-  - [ ] First draft deadline
-  - [ ] Final polish deadline
-  - [ ] Presentation rehearsal date
+- [x] Decide report format template (IEEE/ACM) and set citation style.
+- [x] Create project folders:
+  - [x] `report/`
+  - [x] `slides/`
+  - [x] `figures/`
+  - [x] `references/`
+  - [x] `notes/`
+- [x] Define timeline:
+  - [x] Literature collection deadline
+  - [x] First draft deadline
+  - [x] Final polish deadline
+  - [x] Presentation rehearsal date
 
 ## 1. Literature Collection (2024-2026 Focus)
 - [ ] Collect at least 30 high-quality references:
