@@ -1,15 +1,19 @@
-# Project Timeline
+# AI Harness Timeline
 
 ## Scope
-- Plan date: May 19, 2026
-- Report style target: IEEE format with numeric citations (IEEE style)
+- Plan date: 2026-05-21
+- Assignment: AI Harness system design
+- Deliverables: report (2-5 pages), infographic, log.md
 
 ## Milestones
-- Literature collection deadline: May 26, 2026
-- First draft deadline: June 2, 2026
-- Final polish deadline: June 6, 2026
-- Presentation rehearsal date: June 7, 2026
+- Scenario selection + architecture draft: 2026-05-23
+- Tool/function design complete: 2026-05-25
+- Workflow + orchestration draft complete: 2026-05-27
+- Evaluation design complete: 2026-05-28
+- Report first draft complete: 2026-05-30
+- Infographic first draft complete: 2026-05-31
+- Final polish + consistency check: 2026-06-01
 
 ## Notes
-- Keep all trend analysis aligned with 2024-2026 sources.
-- Reserve the final day before rehearsal for slide cleanup only.
+- Keep `log.md` updated every working session.
+- Prioritize explainability of decision points and tool routing.
